@@ -1,1 +1,1 @@
-const carMakers = ['ford', 'toyota', 'chevy'];
+const carMakers: string[] = ['ford', 'toyota', 'chevy'];
