@@ -9,3 +9,7 @@ const cardsByMake: string[][] = [
   ['corolla'],
   ['camaro']
 ];
+
+// Help with inference when extracting values
+const car = carMakers[0];
+const myCar = carMakers.pop();
