@@ -20,4 +20,4 @@ carMakers.push(100);
 // Help with 'map'
 carMakers.map((car: string): string => {
   return car;
-})
+});
